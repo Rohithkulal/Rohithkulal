@@ -36,6 +36,6 @@
 
 ## 🌐 Connect with Me  
 
-- 📩 Email: rrohith2001@gmail.com  
+- 📩 Email: rohithkulal25@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rohith-kulal/)  
 
