@@ -56,18 +56,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohithkulal&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohithkulal&theme=radical" alt="GitHub Streak" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohithkulal&layout=compact&theme=radical" alt="Top Languages" height="160px"/>
-</p>
-
----
 
 ## 🌐 Connect with Me  
 
