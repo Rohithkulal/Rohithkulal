@@ -56,12 +56,12 @@
 
 ---
 
-
 ## 🌐 Connect with Me  
 
 - 📩 **Email:** rohithkulal25@gmail.com  
 - 💼 **LinkedIn:** [Rohith Kulal](https://www.linkedin.com/in/rohith-kulal/)  
-- ✍️ **Medium:** [@rohithkulal](https://medium.com/@rohithkulal)  
+- ✍️ **Medium:** [@rohith_kulal](https://medium.com/@rohith_kulal)  
 
+---
 
 <p align="center">⭐ If you like my work, consider giving a star to my repositories!</p>
