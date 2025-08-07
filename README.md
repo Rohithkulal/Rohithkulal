@@ -61,7 +61,7 @@
 
 - 📩 **Email:** rohithkulal25@gmail.com  
 - 💼 **LinkedIn:** [Rohith Kulal](https://www.linkedin.com/in/rohith-kulal/)  
+- ✍️ **Medium:** [@rohithkulal](https://medium.com/@rohithkulal)  
 
----
 
 <p align="center">⭐ If you like my work, consider giving a star to my repositories!</p>
