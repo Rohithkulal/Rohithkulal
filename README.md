@@ -28,11 +28,26 @@
 
 ---
 
-## 🏆 Competitive Programming  
+## 🏆 Competitive Programming
 
-- Solving problems on [LeetCode](https://leetcode.com/u/Rohith_Kulal/)  
-- ![LeetCode Stats](https://leetcard.jacoblin.cool/Rohith_Kulal?theme=dark&font=Karma&ext=activity)  
+<p align="center">
+  🚀 Sharpening problem-solving skills on
+  <a href="https://leetcode.com/u/Rohith_Kulal/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Rohith_Kulal?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Rohith_Kulal?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Weekly Activity Heatmap" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Rohith_Kulal?theme=dark&font=Karma&ext=contest" alt="LeetCode Recent Contest Performance" />
+</p>
 ---
 
 ## 🌐 Connect with Me  
