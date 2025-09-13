@@ -11,28 +11,7 @@
 
 ## 🛠️ Tech Stack  
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-
-**Frameworks & Libraries**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-
-**Tools & Cloud**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-
----
+<p align="center"> <!-- Languages --> <img src="https://img.icons8.com/color/48/000000/python--v1.png" height="50" style="border-radius:50%"/> <img src="https://img.icons8.com/color/48/000000/sql.png" height="50" style="border-radius:50%"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" height="50" style="border-radius:50%"/> <img src="https://img.icons8.com/color/48/000000/css3.png" height="50" style="border-radius:50%"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" height="50" style="border-radius:50%"/> <br><br> <!-- Frameworks & Libraries --> <img src="https://img.icons8.com/color/48/000000/tensorflow.png" height="50" style="border-radius:50%"/> <img src="https://img.icons8.com/color/48/000000/pytorch.png" height="50" style="border-radius:50%"/> <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" height="50" style="border-radius:50%; background:white;"/> <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-machine-learning-artificial-intelligence-soft-fill-soft-fill-juicy-fish.png" height="50" style="border-radius:50%"/> <img src="https://img.icons8.com/color/48/000000/pandas.png" height="50" style="border-radius:50%"/> <img src="https://img.icons8.com/color/48/000000/numpy.png" height="50" style="border-radius:50%"/> <br><br> <!-- Tools & Cloud --> <img src="https://img.icons8.com/color/48/000000/git.png" height="50" style="border-radius:50%"/> <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" height="50" style="border-radius:50%; background:white;"/> <img src="https://img.icons8.com/color/48/000000/docker.png" height="50" style="border-radius:50%"/> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" height="50" style="border-radius:50%"/> <img src="https://img.icons8.com/color/48/000000/google-cloud.png" height="50" style="border-radius:50%"/> <img src="https://img.icons8.com/fluency/48/000000/jupyter.png" height="50" style="border-radius:50%"/> </p>
 
 ## 📌 Featured Projects  
 
